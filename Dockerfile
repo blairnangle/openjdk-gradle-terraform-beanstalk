@@ -1,5 +1,5 @@
 # Get base OpenJDK (Ubuntu) image
-FROM openjdk:11
+FROM openjdk:12
 
 # Add maintainer details
 MAINTAINER "Blair Nangle" "hi@blairnangle.com"
